@@ -45,7 +45,5 @@ GreenLegacy is a full-stack eco-focused web platform that integrates e-commerce,
 
 ## 👨‍💻 Developed By
 
-- Afnan Shahriar (Team Lead & Backend)
-- Mst. Sumaiya Akter (Backend)
-- Abir Nag Bulbul (Frontend)
-- Mst. Sayma Akter (Frontend)
+- Afnan Shahriar (Team Lead & Backend + Database)
+- Mst. Sumaiya Akter (Frontend + Backend)
